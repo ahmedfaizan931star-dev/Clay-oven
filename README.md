@@ -27,10 +27,6 @@ Open `index.html` in any browser.
 
 All image URLs are in the `IMAGES` object near the bottom of `index.html`. Replace a URL to swap a photo.
 
-## Deploy
-
-Push to GitHub and import the repo on [Vercel](https://vercel.com). No settings needed.
-
 ## Credits
 
-Design and development by Fiyaz (Vibe Dev PK).
+Design and development by  Faizan.
